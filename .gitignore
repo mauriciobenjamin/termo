@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Carpeta de imagenes
+Edf_1_BPK/
+Edf_33_YAX/
+Edf_42_YAX/
+Edf_6_YAX/
+dintel_2/
+dintel_3/
+escalones/

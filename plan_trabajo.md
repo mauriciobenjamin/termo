@@ -1,0 +1,1 @@
+/home/mauricio/Documentos/Obsidian Vault/1774817033-ICLQ.md
